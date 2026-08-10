@@ -1,0 +1,28 @@
+{
+  "name": "silverio.sia",
+  "version": "1.0.0",
+  "description": "classroom activities",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy26-27"
+  ],
+  "homepage": "https://github.com/MarsWood2007/activity_sia#readme",
+  "bugs": {
+    "url": "https://github.com/MarsWood2007/activity_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarsWood2007/activity_sia.git"
+  },
+  "license": "ISC",
+  "author": "Silverio, Mark",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
